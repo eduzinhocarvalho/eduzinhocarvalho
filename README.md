@@ -2,7 +2,7 @@
 
 **`Designer Gráfico`**
 
-Me chamo Eduardo Carvalho, tenho 17 anos e sou de Califórnia-PR. Atualmente, estou estudando No Ensino Médio, junto com um curso de Desenvilvimento de Sistemas. Estou neste curso a 2 anos e aprendi muito sobre e sou apaixonado em fazer sites, posts e qualquer coisa que envolva tecnologia.
+Me chamo Eduardo Carvalho, tenho 17 anos e sou de Califórnia-PR. Atualmente, estou estudando No Ensino Médio, junto com um curso de Desenvilvimento de Sistemas. Estou neste curso a 2 anos e aprendi muito sobre e sou apaixonado em fazer sites, posts e qualquer coisa que envolva tecnologia.␣␣
 Atualmente, sou gerente de uma empresa de pecinhas de MDF "[EJAartesanatos](https://www.instagram.com/eja.artesanatos?igsh=MTBiZm9lMHZhaTJvbg==)"
 
 ---
@@ -56,4 +56,3 @@ Atualmente, sou gerente de uma empresa de pecinhas de MDF "[EJAartesanatos](http
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
     />
-    ---
